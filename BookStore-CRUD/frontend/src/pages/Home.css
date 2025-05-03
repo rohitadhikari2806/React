@@ -1,0 +1,21 @@
+.Home-page{
+    width :100%;
+    min-height: 91.5vh;
+    max-height: none;
+}
+
+.homeimg{
+    width: 500px;
+    height: 400px;
+}
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(135deg, #020024 0%, #090979 35%, #000033 100%);
+    color: white;
+    min-height: 100vh;
+  }
+  .viewBook{
+    text-decoration: none;
+  }
+  
