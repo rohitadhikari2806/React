@@ -25,7 +25,7 @@ function App() {
         <Route path="/add-blog" element={<BlogForm />} />
         {/* Updated this route to handle dynamic :id */}
         <Route path="/edit/:id" element={<EditBlog />} />
-        <Route path="/temp" element={<Temp />} />
+    
       </Routes>
     </BrowserRouter>
   );
