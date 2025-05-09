@@ -1,0 +1,16 @@
+body{
+    background-image: url("img.jpg");
+    
+    background-size:cover;
+    
+    }
+    .container{
+        align-items: center;
+        width: 400px;    
+    }
+    .text-center{
+        background-color: aliceblue;
+        padding: 10px;
+        margin-top: 10px;
+        border-radius: 5px;
+    }
